@@ -1,1 +1,1 @@
-{'ver1':'25', 'ver2':'00', 'ver3':'\n تعلم \n كيفية ارسال الصور بدقة عالية في الواتساب بالضغط على كلمة فتح اسفل \ n Learn \n  How to send photos in high resolution on WhatsApp  \n' , 'dli':'https://www.kora2020.com/2020/11/send-image.html'}
+{'ver1':'34', 'ver2':'00', 'ver3':'\n تعلم \n كيفية ارسال الصور بدقة عالية في الواتساب بالضغط على كلمة فتح اسفل \ n Learn \n  How to send photos in high resolution on WhatsApp  \n' , 'dli':'https://www.kora2020.com/2020/11/send-image.html'}
