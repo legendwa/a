@@ -1,1 +1,1 @@
-{'ver1':'34', 'ver2':'00', 'ver3':'\nتحديث جديد الإصدار رقم 26\n يحمل مميزات واصلاحات كثيرة يمكنك تحميلة الآن بالضغط على كلمة فتح\n New Update \n V26 \n You Can Download It Now \n' , 'dli':'https://www.kora2020.com/2021/05/LegendWhatsApp.html'}
+{'ver1':'34', 'ver2':'00', 'ver3':'\nتحديث جديد الإصدار رقم 26\n يمكنك تحميلة الآن بالضغط على كلمة فتح\n New Update \n V26 \n You Can Download It Now \n' , 'dli':'https://www.kora2020.com/2021/05/LegendWhatsApp.html'}
