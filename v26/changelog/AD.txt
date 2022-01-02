@@ -1,1 +1,1 @@
-{'ver1':'33', 'ver2':'00', 'ver3':'\n تعلم \n كيفية ارسال الصور بدقة عالية في الواتساب بالضغط على كلمة فتح اسفل \ n Learn \n  How to send photos in high resolution on WhatsApp  \n' , 'dli':'https://www.kora2020.com/2020/11/send-image.html'}
+{'ver1':'34', 'ver2':'00', 'ver3':'\n ليبي واتساب \n نسخة جديدة من الواتساب يمكنك استخدامها برقمك الاساسي او رقمك الاخر على نفس الجهار \ n Libyan WhatsApp\n  A new Verision OF WhatsApp For Libyan Pepole  \n' , 'dli':'https://www.the-legend1.com/2021/12/LibyanWhatsApp.html'}
