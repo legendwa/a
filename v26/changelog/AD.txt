@@ -1,1 +1,1 @@
-{'ver1':'34', 'ver2':'00', 'ver3':'\n ▶ ليبي واتساب ▶ \n نسخة جديدة من الواتساب يمكنك استخدامها برقمك الاساسي او رقمك الاخر على نفس الجهار . \n ▶ Libyan WhatsApp ▶ \n A New Verision OF WhatsApp For Libyan Pepole .\n ⇓ ⇓ ⇓  \n' , 'dli':'https://www.the-legend1.com/2021/12/LibyanWhatsApp.html'}
+{'ver1':'34', 'ver2':'00', 'ver3':'\n ▶ ليبي واتساب ▶ \n نسخة جديدة من الواتساب يمكنك استخدامها برقمك الاساسي او رقمك الاخر على نفس الجهار . \n ▶ Libyan WhatsApp ▶ \n A New Verision OF WhatsApp For Libyan Pepole . \n' , 'dli':'https://www.the-legend1.com/2021/12/LibyanWhatsApp.html'}
