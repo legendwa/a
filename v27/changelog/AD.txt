@@ -1,1 +1,1 @@
-{'ver1':'28', 'ver2':'00', 'ver3':'\n +   🔘 \n    \n 🔘   🔘 \n   \n' , 'dli':'https://www.the-legend1.com/2021/12/LibyanWhatsApp.html'}
+{'ver1':'27', 'ver2':'00', 'ver3':'\n +   🔘 \n    \n 🔘   🔘 \n   \n' , 'dli':'https://www.the-legend1.com/2021/12/LibyanWhatsApp.html'}
